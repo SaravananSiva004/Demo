@@ -1,1 +1,3 @@
-i am Alfiya.working At pyroferus.
+i am Alfiya.working At pyroferus as a QA.
+
+ 
